@@ -57,7 +57,7 @@ The project follows an object-oriented approach with the following main componen
 - **GitHub**: Platform for project management and team collaboration.
 
 
-##Contributors
+## Contributors
 - **Amelie Oberkirch**
 - **Paul Grewe**
 - **Anna-Maria Kugler**
